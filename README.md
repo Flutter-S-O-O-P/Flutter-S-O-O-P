@@ -7,7 +7,7 @@ SOOPCHIVE (숲카이브 : 숲 + 아카이브)
 # 프로젝트 정보
 ```markdown
 프로젝트 목적 : 카테고리를 바탕으로 닌텐도 게임 <모여봐요, 동물의 숲>의 주민 캐릭터 정보를 검색
-프로젝트 개발 기간 : 2024.06.10 ~ 2024.07.19
+프로젝트 개발 기간 : 2024.06.10 ~ 2024.06.19
 ```
 # 기능 소개
 
@@ -25,17 +25,22 @@ SOOPCHIVE (숲카이브 : 숲 + 아카이브)
 
 
 
-### 🧑‍🤝‍🧑 멤버구성
+
+
+### ⚙️ 개발 환경
+
+
+
+
+
+
+
+ - ### 🧑‍🤝‍🧑 멤버구성
 - 프로젝트 매니저 : 남지혜
 - 형상 관리자     : 이민국
 - 문서 관리자    : 김진용
 - 이슈 관리자   : 김만호, 윤해빈
 - DBA         : 임찬울
-
-### ⚙️ 개발 환경
-
- - FIGMA : UI, 전체업무흐름도
- - Android Studio : 안드로이드 어플리케이션 화면 구현
 
 # 팀 소개
 ![image](https://private-user-images.githubusercontent.com/157683242/333201333-3c2da393-cb46-4292-9f31-af3cca21d9a3.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY5NjY4ODEsIm5iZiI6MTcxNjk2NjU4MSwicGF0aCI6Ii8xNTc2ODMyNDIvMzMzMjAxMzMzLTNjMmRhMzkzLWNiNDYtNDI5Mi05ZjMxLWFmM2NjYTIxZDlhMy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUyOVQwNzA5NDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNmFmNThhYTU0ZmY0ZjVkNDVjZDFiNzQ3NDg2M2I3Yzc1OTg1OWE0MWEyMTAzOTMyYjI1ZTU4NGYzMzY5OWMwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.X23DOHAMHn0NNir-_yyc5DAlf7A8-HusRuaLEp5-h6I)
